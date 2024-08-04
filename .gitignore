@@ -1,0 +1,6 @@
+*.png
+*.csv
+
+./graphics/*
+./data/*
+./output/*
